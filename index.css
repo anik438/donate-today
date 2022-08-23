@@ -77,7 +77,7 @@ body {
 
 .donate-plan {
     text-align: center;
-    margin-left: 18%;
+    margin-left: 23%;
     margin-right: 20%;
     padding: 3%;
 }
@@ -87,6 +87,7 @@ body {
     padding: 2%;
     margin-left: 20px;
     border-radius: 5%;
+    text-align: left;
 }
 
 .shelter-family {
@@ -94,6 +95,7 @@ body {
     padding: 2%;
     margin-left: 20px;
     border-radius: 5%;
+    text-align: left;
 }
 
 .education-child {
@@ -101,6 +103,7 @@ body {
     padding: 2%;
     margin-left: 20px;
     border-radius: 5%;
+    text-align: left;
 }
 
 .donation-plan {
